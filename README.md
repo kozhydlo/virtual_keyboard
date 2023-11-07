@@ -39,3 +39,7 @@ pip install pynput
 # Автор
 
 Цей проект був створений [Kozhydlo Mark], і ви можете знайти додаткову інформацію про нього на моєму [GitHub профілі](https://github.com/kozhydlo).
+
+
+# Як прцює 
+## як працює можна подивитися [тут](https://drive.google.com/file/d/1KFHJwFL4oBUdeBnUsEMNcOYhFIOH2rTv/view?usp=sharing)
